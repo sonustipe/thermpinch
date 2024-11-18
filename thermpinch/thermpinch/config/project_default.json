@@ -1,0 +1,18 @@
+{
+  "meta_input": {
+    "file_name": "Project_Data",
+    "client_name": "",
+    "project_name": "",
+    "project_description": ""
+  },
+  "page1_input": {
+    "numbers_operands": "two",
+    "operation": "addition",
+    "a": 4,
+    "b": 2,
+    "c": 3
+  },
+  "page2_input": {
+    "table": []
+  }
+}
